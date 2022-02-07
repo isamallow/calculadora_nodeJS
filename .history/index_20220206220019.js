@@ -1,0 +1,5 @@
+const inquirer = require('inquirer')
+const { soma, subtracao, multiplicacao, divisao} = require('./calculadora')
+
+
+inquirer.prompt([])

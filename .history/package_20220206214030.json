@@ -1,0 +1,23 @@
+{
+  "name": "calculadora_nodejs",
+  "version": "1.0.0",
+  "description": "Desafio proposto pelo curso Web Full Stack da SoulCode Academy que utiliza conceitos iniciais de NodeJS.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "sta"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/isamallow/calculadora_nodeJS.git"
+  },
+  "author": "Isabela Ribeiro",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/isamallow/calculadora_nodeJS/issues"
+  },
+  "homepage": "https://github.com/isamallow/calculadora_nodeJS#readme",
+  "dependencies": {
+    "inquirer": "^8.2.0"
+  }
+}
